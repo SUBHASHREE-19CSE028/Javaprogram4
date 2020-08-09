@@ -16,21 +16,21 @@ public class counter {
      */
     public static void main(String[] args) {
         counter1 obj=new counter1();
-        //System.out.println(sample.i);
+        //System.out.println(counter1.i);
         //System.out.println(obj.j);
         System.out.println("object 1:");
         obj.increment();
      
         
         counter1 obj1=new counter1();
-        //System.out.println(sample.i);
+        //System.out.println(counter1.i);
         //System.out.println(obj1.j);
         System.out.println("object 2:");
         obj1.increment();
         
         counter1 obj2=new counter1();
-        //System.out.println(sample.i);
-        //System.out.println(obj.j);
+        //System.out.println(counter1.i);
+        //System.out.println(obj2.j);
         System.out.println("object 3:");
         obj2.increment();
         
